@@ -1,0 +1,2 @@
+INSERT INTO users(full_name,username,password,roles_id, enabled, is_account_non_expired, is_account_non_locked, is_credentials_non_expired)
+VALUES('DIRECTOR','testdirector@gmail.com','$2a$10$L7tI48315uy0XXepE7uhw.wRPQmOXUYHnMlWlGTbUCbfDTrY7Eo/u',1, true, true,true,true)
